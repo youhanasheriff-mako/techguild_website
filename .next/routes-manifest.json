@@ -2,8 +2,16 @@
   "version": 3,
   "pages404": true,
   "caseSensitive": false,
-  "basePath": "",
+  "basePath": "/techguild_website",
   "redirects": [
+    {
+      "source": "/techguild_website/",
+      "destination": "/techguild_website",
+      "basePath": false,
+      "internal": true,
+      "statusCode": 308,
+      "regex": "^/techguild_website/$"
+    },
     {
       "source": "/:path+/",
       "destination": "/:path+",
