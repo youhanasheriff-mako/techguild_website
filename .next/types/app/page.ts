@@ -1,4 +1,4 @@
-// File: /Users/youhanasheriff/Desktop/Mako/r_and_d_projects/techguild_website/src/app/page.tsx
+// File: /home/runner/work/techguild_website/techguild_website/src/app/page.tsx
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

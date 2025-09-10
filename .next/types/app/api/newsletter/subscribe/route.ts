@@ -1,4 +1,4 @@
-// File: /Users/youhanasheriff/Desktop/Mako/r_and_d_projects/techguild_website/src/app/api/newsletter/subscribe/route.ts
+// File: /home/runner/work/techguild_website/techguild_website/src/app/api/newsletter/subscribe/route.ts
 import * as entry from '../../../../../../src/app/api/newsletter/subscribe/route.js'
 import type { NextRequest } from 'next/server.js'
 
